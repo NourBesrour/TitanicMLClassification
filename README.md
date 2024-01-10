@@ -1,4 +1,4 @@
-### Titanic Survival Prediction
+# Titanic Survival Prediction
 
 This Python script predicts passenger survival on the Titanic using machine learning models. The script achieves an F1 score of 0.74 on the Kaggle dataset.
 
